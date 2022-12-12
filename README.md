@@ -10,7 +10,7 @@ I made the design, layout and programming of the project.*
    - Inside root directory "npm i" to install the necessary dependencies
    - Run project  "npm start"
    
-> Video demo [Link](https://www.youtube.com/watch?v=ZtDanIHhRXA)
+> Video demo [Link](https://youtu.be/WpB6-mxlO00)
 
 
 > MealDB API [Link](https://www.themealdb.com/api.php)
