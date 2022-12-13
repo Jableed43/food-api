@@ -10,6 +10,14 @@ I made the design, layout and programming of the project.*
    - Inside root directory "npm i" to install the necessary dependencies
    - Run project  "npm start"
    
+   ***Features:***
+   - Listed Meals
+   - Meal Details with name, country origin, category
+   - Full recipe with ingredients, instructions and video
+   - Alphabetic Pagination
+   - Functional Word Search Bar
+   - 404 error page
+   
 > Video demo [Link](https://youtu.be/WpB6-mxlO00)
 
 
