@@ -1,4 +1,4 @@
-## Search Your Recipe Project
+## 🌯🍔🍟 Search Your Recipe Project 🥙🧆🍮
 
 *It is a React application that makes requests to an external API.
 I made the design, layout and programming of the project.*
